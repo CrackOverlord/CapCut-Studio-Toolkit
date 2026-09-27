@@ -146,18 +146,3 @@ capcut_studio_toolkit/
 
 ---
 
-## 📌 About (для поля About на GitHub)
-
-**Copy this into the About field:**
-
-```
-🎬 CapCut Studio Toolkit — desktop workflow companion for video editors. Project organizer, preset manager, media library, and performance tools. Open source, standalone utility for Windows.
-```
-
-**Topics (теги для GitHub):**
-
-```
-capcut-toolkit, video-editor-tools, workflow-helper, preset-manager, project-organizer, windows-tool, creative-suite, productivity, video-editing, desktop-app
-```
-
----
